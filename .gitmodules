@@ -1,0 +1,6 @@
+[submodule "13-Geburtstagsverwaltung"]
+	path = 13-Geburtstagsverwaltung
+	url = git@github.com:allmightychaos/13-Geburtstagsverwaltung.git
+[submodule "Praktisch/13-Geburtstagsverwaltung"]
+	path = Praktisch/13-Geburtstagsverwaltung
+	url = git@github.com:allmightychaos/13-Geburtstagsverwaltung.git
