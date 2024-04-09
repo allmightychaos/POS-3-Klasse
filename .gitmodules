@@ -37,3 +37,6 @@
 [submodule "Praktisch/01-Kofferpacken"]
 	path = Praktisch/01-Kofferpacken
 	url = git@github.com:allmightychaos/01-Kofferpacken.git
+[submodule "Praktisch/11-Zahlen-Auswerten"]
+	path = Praktisch/11-Zahlen-Auswerten
+	url = git@github.com:allmightychaos/11-Zahlen-Auswerten.git
