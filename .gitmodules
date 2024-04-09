@@ -4,3 +4,36 @@
 [submodule "Praktisch/13-Geburtstagsverwaltung"]
 	path = Praktisch/13-Geburtstagsverwaltung
 	url = git@github.com:allmightychaos/13-Geburtstagsverwaltung.git
+[submodule "Praktisch/12-Einkaufslistengenerator"]
+	path = Praktisch/12-Einkaufslistengenerator
+	url = git@github.com:allmightychaos/12-Einkaufslistengenerator.git
+[submodule "Praktisch/10-Formen"]
+	path = Praktisch/10-Formen
+	url = git@github.com:allmightychaos/10-Formen.git
+[submodule "Praktisch/09-Memory"]
+	path = Praktisch/09-Memory
+	url = git@github.com:allmightychaos/09-Memory.git
+[submodule "Praktisch/08-Traveling-Salesman"]
+	path = Praktisch/08-Traveling-Salesman
+	url = git@github.com:allmightychaos/08-Traveling-Salesman.git
+[submodule "Praktisch/07-Permutations"]
+	path = Praktisch/07-Permutations
+	url = git@github.com:allmightychaos/07-Permutations.git
+[submodule "Praktisch/06-Kennzeichenabfrage"]
+	path = Praktisch/06-Kennzeichenabfrage
+	url = git@github.com:allmightychaos/06-Kennzeichenabfrage.git
+[submodule "Praktisch/05-Zahlenmenge-mit-Collections"]
+	path = Praktisch/05-Zahlenmenge-mit-Collections
+	url = git@github.com:allmightychaos/05-Zahlenmenge-mit-Collections.git
+[submodule "Praktisch/04-Domino"]
+	path = Praktisch/04-Domino
+	url = git@github.com:allmightychaos/04-Domino.git
+[submodule "Praktisch/03-TicTacToe"]
+	path = Praktisch/03-TicTacToe
+	url = git@github.com:allmightychaos/03-TicTacToe.git
+[submodule "Praktisch/02-Rekursive-Zahlenmenge"]
+	path = Praktisch/02-Rekursive-Zahlenmenge
+	url = git@github.com:allmightychaos/02-Rekursive-Zahlenmenge.git
+[submodule "Praktisch/01-Kofferpacken"]
+	path = Praktisch/01-Kofferpacken
+	url = git@github.com:allmightychaos/01-Kofferpacken.git
